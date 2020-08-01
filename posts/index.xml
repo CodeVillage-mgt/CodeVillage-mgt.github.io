@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>Posts on 学生会ブログ</title>
-   <link>http://codevillage-mgt.github.io/posts/</link>
+   <link>http://CodeVillage-mgt.github.io/posts/</link>
    <description>Recent content in Posts on 学生会ブログ</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>ja-jp</language>
    <lastBuildDate>Sat, 01 Aug 2020 22:43:02 +0900</lastBuildDate>
    
-       <atom:link href="http://codevillage-mgt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="http://CodeVillage-mgt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>Secound</title>
-       <link>http://codevillage-mgt.github.io/posts/secound/</link>
+       <link>http://CodeVillage-mgt.github.io/posts/secound/</link>
        <pubDate>Sat, 01 Aug 2020 22:43:02 +0900</pubDate>
        
-       <guid>http://codevillage-mgt.github.io/posts/secound/</guid>
+       <guid>http://CodeVillage-mgt.github.io/posts/secound/</guid>
        <description>&lt;p&gt;テスト投稿です&lt;/p&gt;
 </description>
      </item>
    
      <item>
        <title>test投稿</title>
-       <link>http://codevillage-mgt.github.io/posts/first/</link>
+       <link>http://CodeVillage-mgt.github.io/posts/first/</link>
        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
        
-       <guid>http://codevillage-mgt.github.io/posts/first/</guid>
+       <guid>http://CodeVillage-mgt.github.io/posts/first/</guid>
        <description>&lt;p&gt;テスト投稿です&lt;/p&gt;
 </description>
      </item>
