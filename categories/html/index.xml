@@ -1,14 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>css on CodeVillage Blog</title>
-   <link>http://CodeVillage-mgt.github.io/tags/css/</link>
-   <description>Recent content in css on CodeVillage Blog</description>
+   <title>html on CodeVillage Blog</title>
+   <link>http://CodeVillage-mgt.github.io/categories/html/</link>
+   <description>Recent content in html on CodeVillage Blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>ja-jp</language>
    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
    
-       <atom:link href="http://CodeVillage-mgt.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="http://CodeVillage-mgt.github.io/categories/html/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
