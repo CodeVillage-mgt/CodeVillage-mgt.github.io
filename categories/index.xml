@@ -1,11 +1,12 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Categories on 学生会ブログ</title>
+   <title>Categories on CodeVillage Blog</title>
    <link>http://CodeVillage-mgt.github.io/categories/</link>
-   <description>Recent content in Categories on 学生会ブログ</description>
+   <description>Recent content in Categories on CodeVillage Blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>ja-jp</language>
+   <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="http://CodeVillage-mgt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
    
